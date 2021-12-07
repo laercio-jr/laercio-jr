@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 ### Fala pessoal! 👋
 
 Sou um jovem iniciante no mundo tech profissional, mas entusiasta desde pequeno.
+Sigo inconformado e sem acômodo.
 
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
@@ -28,7 +29,7 @@ const laercioJr = {
  isCollegeStudent : true,
  course : "Interdisciplinary Bachelor's in Science and Technology",
  
- learningLanguages : listOf("Java", "C#", "JavaScript", "HTML", "CSS") ,
+ learningLanguages : ["Java", "C#", "JavaScript", "HTML", "CSS"],
  
 }
 ```
@@ -50,11 +51,12 @@ const laercioJr = {
 ## **GitHub Estatísticas**
 
 <a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessaswerts&theme=dracula&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laercio-jr&theme=dracula&hide_langs_below=1" />
 </a>
 
+<br>
 <a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessaswerts&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=laercio-jr&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
 
 <br>
