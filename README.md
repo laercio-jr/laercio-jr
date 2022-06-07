@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ### Fala pessoal! 👋
 
 Sou um jovem iniciante no mundo tech profissional, mas entusiasta desde pequeno.
-Sigo inconformado e sem acômodo.
+Sigo inconformado, sem acômodo e resolvendo problemas através de código.
 
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
@@ -25,7 +25,7 @@ Sigo inconformado e sem acômodo.
 ```javascript
 const padawan = {
  name : "Laércio Júnior",
- age : 20,
+ age : 21,
  isCollegeStudent : true,
  course : "Interdisciplinary Bachelor's in Science and Technology", 
  hobbies : ["Music", "Gaming", "Tech", "Graphic Design"] 
